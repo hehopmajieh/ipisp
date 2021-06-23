@@ -1,4 +1,4 @@
-module github.com/ammario/ipisp
+module github.com/hehopmajieh/ipisp
 
 require (
 	github.com/davecgh/go-spew v1.1.0
