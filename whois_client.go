@@ -28,7 +28,7 @@ const (
 
 // Service address
 const (
-	cymruNetcatAddress = "whois.cymru.com:43"
+	cymruNetcatAddress = "whois.radb.net:43"
 )
 
 // whoisClient uses the whois client
